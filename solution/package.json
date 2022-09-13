@@ -1,0 +1,15 @@
+{
+  "name": "Meals Reciept Extractor",
+  "version": "0.0.1",
+  "icon_url": "icon.png",
+  "keywords":  "Meals, Reciepts, Food",
+  "category": "food",
+  "short_description": "Automatically process Meal reciepts",
+  "long_description": "Extract key fields from reciepts in the United States",
+  "authors": ["Instabase"],
+  "beta": true,
+  "solution_type": "ibflowbin",
+  "encryption_config": {
+    "encryption_type": "v1"
+  }
+}
